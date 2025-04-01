@@ -1,0 +1,45 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.navbar {
+    display: flex;
+    background-color: rgb(72, 134, 204);
+}
+
+.logo {
+    display: inherit;
+    width: 10%;
+    justify-content: center;
+    align-items: center;
+}
+
+.nav-list {
+    display: flex;
+    width: 90%;
+    justify-content: right;
+    margin: 20px;
+    gap: 20px;
+}
+
+.searchtool {
+    display: flex;
+    width: 200px;
+    height: 25px;
+    background-color: white;
+    border-radius: 20px;
+}
+
+.magnifying-glass {
+    width: 20%;
+}
+
+.placeholder {
+    width: 80%;
+    opacity: 0.5;
+    display: flex;
+    justify-content: right;
+    align-items: center;
+    padding-right: 10px;
+}

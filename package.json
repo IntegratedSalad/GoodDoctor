@@ -1,0 +1,16 @@
+{
+  "name": "gooddoctor",
+  "version": "1.0.0",
+  "description": "Web Technologies project",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Kacper Klimas Szymon Franz Adam Trzpis",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.21.2",
+    "mongodb": "^6.15.0",
+    "mongoose": "^8.12.2"
+  }
+}
